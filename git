@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Pradnya176104/self_driving_car_scratch.git
+git branch -M main
+git push -u origin main
